@@ -57,5 +57,5 @@
 
 メンションでBOTに呼びかけると、リアルタイム調査とURLが返されます。
 
-```plaintext
+```text
 @MarketBot
